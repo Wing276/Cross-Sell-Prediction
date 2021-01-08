@@ -42,4 +42,30 @@
 7. Compare_code.ipynb: 
 	- The file contains all the classifiers that I have tried, random forest performs the best
 
+## 3. Goal
+
+- The classification goal is to predict if the client will buy the transportation insurance (i.e, Identify the value of feature 'Response', 1 for yes and 0 otherwise).
+
+## 4. Attribute Information
+#### a) Input variables
+**clients' basic information**
+1. ID: Unique ID of clients (numeric)
+2. Gender: Gender of clients (categorical: 'Male', 'Female')
+3. Age: Age of clients (numeric)
+4. Driving_License: whether the clients have a driving license (categorical: '0', '1')
+5. Region_Code: Unique code for the region of the clients (numeric)
+6. Previously_Insured: whether the clients already have a transportation insurance (categorical: '0', '1')
+
+**clients' vehicle situations**
+7. Vehicle_Age: Age of the Vehicle (string)
+8. Vehicle_Damage: whether the vehicle has been damaged (categorical: 'No', 'Yes')
+
+**other attributes**
+9. Annual_Premium: The amount customer needs to pay as premium in the year (numeric)
+10. Policy_Sales_Channel: Anonymised Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc. Here, using unique numbers to represent different channel (numeric)
+11. Vintage: Number of Days that Customer has been associated with the company (numeric)
+
+#### b) Output variable
+12. Response: whether the client is interested in it (categorical: '0', '1')
+
 Remark: This is my school projects modified from a (completed) competition on Kaggle. You may download the dataset and play around my code :)
