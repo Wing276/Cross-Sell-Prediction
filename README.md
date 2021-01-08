@@ -56,13 +56,13 @@
 5. Region_Code: Unique code for the region of the clients (numeric)
 6. Previously_Insured: whether the clients already have a transportation insurance (categorical: '0', '1')
 
-**clients' vehicle situations**
-7. Vehicle_Age: Age of the Vehicle (string)
+**clients' vehicle situations**\
+7. Vehicle_Age: Age of the Vehicle (string)\
 8. Vehicle_Damage: whether the vehicle has been damaged (categorical: 'No', 'Yes')
 
-**other attributes**
-9. Annual_Premium: The amount customer needs to pay as premium in the year (numeric)
-10. Policy_Sales_Channel: Anonymised Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc. Here, using unique numbers to represent different channel (numeric)
+**other attributes**\
+9. Annual_Premium: The amount customer needs to pay as premium in the year (numeric)\
+10. Policy_Sales_Channel: Anonymised Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc. Here, using unique numbers to represent different channel (numeric)\
 11. Vintage: Number of Days that Customer has been associated with the company (numeric)
 
 #### b) Output variable
