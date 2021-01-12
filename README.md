@@ -62,8 +62,8 @@
 2. Vehicle_Damage: whether the vehicle has been damaged (categorical: 'No', 'Yes')
 
 **other attributes**
-1. Annual_Premium: The amount customer needs to pay as premium in the year (numeric)\
-2. Policy_Sales_Channel: Anonymised Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc. Here, using unique numbers to represent different channel (numeric)\
+1. Annual_Premium: The amount customer needs to pay as premium in the year (numeric)
+2. Policy_Sales_Channel: Anonymised Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc. Here, using unique numbers to represent different channel (numeric)
 3. Vintage: Number of Days that Customer has been associated with the company (numeric)
 
 #### b) Output variable
