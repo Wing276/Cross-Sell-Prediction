@@ -39,8 +39,9 @@
 6. submission_1_ada: 
 	- prediction result from a adaboost classifier
     
-7. Compare_code.ipynb: 
+7. insurance.ipynb: 
 	- The file contains all the classifiers that I have tried, adaboost performs the best
+	- If, by any chance, you can not view my notebook on github (*Sorry, something went wrong. Reload?* pops up), one way is to place the github.com url of the notebook into https://nbviewer.jupyter.org/ 
 
 ## 3. Goal
 
