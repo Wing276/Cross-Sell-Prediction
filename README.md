@@ -37,7 +37,7 @@
 	- prediction result from a decision tree classifier
     
 6. submission_1_ada: 
-	- prediction result from a adabost classifier
+	- prediction result from a adaboost classifier
     
 7. Compare_code.ipynb: 
 	- The file contains all the classifiers that I have tried, adaboost performs the best
