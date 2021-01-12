@@ -36,15 +36,15 @@
 5. submission_1_dtree:
 	- prediction result from a decision tree classifier
     
-6. submission_1_randomforest: 
-	- prediction result from a random forest classifier
+6. submission_1_ada: 
+	- prediction result from a adabost classifier
     
 7. Compare_code.ipynb: 
-	- The file contains all the classifiers that I have tried, random forest performs the best
+	- The file contains all the classifiers that I have tried, adaboost performs the best
 
 ## 3. Goal
 
-- The classification goal is to predict if the client will buy the transportation insurance (i.e, Identify the value of feature 'Response', 1 for yes and 0 otherwise).
+- The classification goal is to predict if the client will buy the transportation insurance (i.e. identify the value of feature 'Response', 1 for yes and 0 otherwise).
 
 ## 4. Attribute Information
 #### a) Input variables
