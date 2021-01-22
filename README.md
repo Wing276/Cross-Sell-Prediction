@@ -10,36 +10,20 @@
 	- The testing set with 11 input attributes. You need to identify the class of each item. 
 
 #### Other files:
-1. samplesubmission.csv:
-	- This is a sample file to show the output format. Wrong format will lead to unkown result.
-
-2. evaluate_1.macOS:
+1. evaluate_1.exe:
 	- This is a command line tool to evaluate your result. F1-measure is used to measure your result.
-	- Usage: Press "command + space" to open spotlight search and type in "terminal", then type in the following command in the terminal. You should replace
-```./submission_1_method.csv``` with your own path to the submission_1_method.csv.
-```bash
-./evaluate_1.macOS ./submission_1_method.csv
-```
-
-3. evaluate_1.linux:
-	- Usage: Press "ctrl + alt + t" to launch a terminal and input the following command.
-```bash
-./evaluate_1.linux ./submission_1_method.csv
-```
-
-4. evaluate_1.exe:
 	- Usage: Press "command + r" and then type in "cmd" in the dialog box to launch a terminal. Then type in the command:
 ```bash
 ./evaluate_1.exe ./submission_1_method.csv
 ```
 
-5. submission_1_dtree:
+2. submission_1_dtree:
 	- prediction result from a decision tree classifier
     
-6. submission_1_ada: 
+3. submission_1_ada: 
 	- prediction result from a adaboost classifier
     
-7. insurance.ipynb: 
+4. insurance.ipynb: 
 	- The file contains all the classifiers that I have tried, adaboost performs the best
 	- If, by any chance, you can not view my notebook on github (*Sorry, something went wrong. Reload?* pops up), one way is to place the github.com url of the notebook into https://nbviewer.jupyter.org/ 
 
