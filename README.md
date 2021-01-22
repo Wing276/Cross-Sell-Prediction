@@ -11,6 +11,7 @@
 
 #### Other files:
 1. evaluate_1.exe:
+	- Let me know if you are using another operating system
 	- This is a command line tool to evaluate your result. F1-measure is used to measure your result.
 	- Usage: Press "command + r" and then type in "cmd" in the dialog box to launch a terminal. Then type in the command:
 ```bash
