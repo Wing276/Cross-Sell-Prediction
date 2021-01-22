@@ -14,7 +14,7 @@
 	- This is a command line tool to evaluate your result. F1-measure is used to measure your result.
 	- Usage: Press "command + r" and then type in "cmd" in the dialog box to launch a terminal. Then type in the command:
 ```bash
-./evaluate_1.exe ./submission_1_method.csv
+evaluate_1.exe submission_1_method.csv
 ```
 
 2. submission_1_dtree:
