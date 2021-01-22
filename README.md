@@ -27,6 +27,9 @@ evaluate_1.exe submission_1_method.csv
 	- The file contains all the classifiers that I have tried, adaboost performs the best
 	- If, by any chance, you can not view my notebook on github (*Sorry, something went wrong. Reload?* pops up), one way is to place the github.com url of the notebook into https://nbviewer.jupyter.org/ 
 
+5. samplesubmission.csv:
+	- This is a sample file to show the output format. Wrong format will lead to unknown result.
+	
 ## 3. Goal
 
 - The classification goal is to predict if the client will buy the transportation insurance (i.e. identify the value of feature 'Response', 1 for yes and 0 otherwise).
