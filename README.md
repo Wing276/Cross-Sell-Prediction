@@ -53,4 +53,4 @@ evaluate_1.exe submission_1_method.csv
 #### b) Output variable
 1. Response: whether the client is interested in it (categorical: '0', '1')
 
-Remark: This is my school projects modified from a (completed) competition on Kaggle. You may download the dataset and play around my code :)
+Remark: This is my school project modified from a (completed) competition on Kaggle. You may download the dataset and play around my code :)
